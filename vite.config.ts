@@ -3,7 +3,7 @@
  * @Descripttion:
  * @Date: 2023-03-28 16:14:11
  * @LastEditors: zhb
- * @LastEditTime: 2023-04-13 14:39:17
+ * @LastEditTime: 2023-04-14 17:25:34
  * @FilePath: /home-smallpigz-vue3/vite.config.ts
  */
 import { defineConfig } from 'vite'
@@ -32,6 +32,7 @@ export default defineConfig({
     ],
   },
   server: {
-    port: 8081,
+    port: 8080,
+    host: '0.0.0.0',
   },
 })
