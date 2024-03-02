@@ -2,8 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  html {
-    background-color: #f8efba;
-  }
-}
+@layer base {}

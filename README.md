@@ -1,3 +1,15 @@
+<!--
+ * @Author: zhb
+ * @Descripttion:
+ * @Date: 2023-04-13 14:24:37
+ * @LastEditors: zhb
+ * @LastEditTime: 2024-03-02 17:46:05
+ * @FilePath: /home-smallpigz-vue3/README.md
+-->
+
+没啥可说的
+这是个人的一个小破站 😄
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
